@@ -1,4 +1,7 @@
-.img{
+img{
     float: left;
-    width: 50px
+}
+
+p{
+    float: right;
 }
