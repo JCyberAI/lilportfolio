@@ -1,7 +1,11 @@
-img{
+body {
+    background-color: tan;
+}
+
+img {
     float: left;
 }
 
-p{
+p {
     float: right;
 }
