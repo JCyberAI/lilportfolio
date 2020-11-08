@@ -3,21 +3,9 @@ body {
 }
 .container {
     height: 600px;
+    float: {}
 }
 
-#myName {
-    margin: 30px;
-}
-
-#myEmail {
-    margin: 30px;
-    margin-right: 20px;
-    padding: 50px;
-}
-
-#myMessage {
-    margin: 30px;
-}
 
 @media screen {
     max-width: 400px;
