@@ -1,6 +1,9 @@
 body {
     background-color: tan;
-    background-image: url(https://i.pinimg.com/originals/0c/f5/d3/0cf5d3ed289c82a21407845377159ac2.gif);
+    background-image: repeating-linear-gradient(190deg, tan, beige
+    7%, gray 10%);
+    background-image: -moz-radial-gradient(95deg, orange, yellow
+    5%. gray 10% );
 }
 
 .container {
