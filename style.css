@@ -1,9 +1,17 @@
 body {
     background-color: tan;
 }
+
 .container {
     height: 600px;
-    float: {}
+    float: {
+        position: relative;
+}
+
+p {
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
