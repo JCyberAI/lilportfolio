@@ -3,14 +3,12 @@ body {
     background-image: repeating-linear-gradient(190deg, tan, beige
     7%, gray 10%);
     background-image: -moz-radial-gradient(95deg, orange, yellow
-    5%. gray 10% );
+    5% gray 10% );
 }
 
 .container {
     height: 600px;
-    float: {
-        position: relative;
-    }
+    position: relative;
 }
 
 p {
@@ -19,7 +17,7 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
-@media screen {
-    max-width: 400px;
+img {
+    width: 200px;
+    height: 200px;
 }
